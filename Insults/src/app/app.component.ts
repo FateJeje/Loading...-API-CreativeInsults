@@ -12,4 +12,5 @@ import { GetInsultService } from './get-insult.service';
 })
 export class AppComponent {
   title = 'Insults';
+myDrop: any;
 }
